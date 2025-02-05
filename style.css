@@ -1,0 +1,29 @@
+body {
+            font-family: Apple Chancery, cursive, sans-serif;
+            background-color: #ADD8E6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .content {
+            width: 70%;
+            max-width: 800px;
+            background-color: #87CEFA;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #191970;
+
+        }
+        p {
+            color: #191970;
+        }
